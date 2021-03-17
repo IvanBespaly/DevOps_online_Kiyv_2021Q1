@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 aada87824234f44e4cb8b8f31f27616d4585f66c IvanBespaly <i.a.bespaly@gmail.com> 1615981332 +0200	commit (initial): init
+aada87824234f44e4cb8b8f31f27616d4585f66c aada87824234f44e4cb8b8f31f27616d4585f66c IvanBespaly <i.a.bespaly@gmail.com> 1615981409 +0200	checkout: moving from master to develop
+aada87824234f44e4cb8b8f31f27616d4585f66c 2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 IvanBespaly <i.a.bespaly@gmail.com> 1615981539 +0200	commit: index
+2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 IvanBespaly <i.a.bespaly@gmail.com> 1615981637 +0200	checkout: moving from develop to images
+2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 03261895d019243b0d72045d6797b93387eff679 IvanBespaly <i.a.bespaly@gmail.com> 1615981745 +0200	commit: images/
+03261895d019243b0d72045d6797b93387eff679 2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 IvanBespaly <i.a.bespaly@gmail.com> 1615981767 +0200	checkout: moving from images to develop
+2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 IvanBespaly <i.a.bespaly@gmail.com> 1615981783 +0200	checkout: moving from develop to styles
+2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 9abaa44669cb828ba18ae373e58897022955fca7 IvanBespaly <i.a.bespaly@gmail.com> 1615981848 +0200	commit: styles/
+9abaa44669cb828ba18ae373e58897022955fca7 2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 IvanBespaly <i.a.bespaly@gmail.com> 1615981867 +0200	checkout: moving from styles to develop
+2cdbe2addf6bcfb0b0a1d49c9e750244314783e9 03261895d019243b0d72045d6797b93387eff679 IvanBespaly <i.a.bespaly@gmail.com> 1615981894 +0200	merge images: Fast-forward
+03261895d019243b0d72045d6797b93387eff679 6095145291fd7ae3be5497bc133a38ed42578d92 IvanBespaly <i.a.bespaly@gmail.com> 1615982482 +0200	commit (merge): develop
+6095145291fd7ae3be5497bc133a38ed42578d92 aada87824234f44e4cb8b8f31f27616d4585f66c IvanBespaly <i.a.bespaly@gmail.com> 1615982572 +0200	checkout: moving from develop to master
+aada87824234f44e4cb8b8f31f27616d4585f66c 6095145291fd7ae3be5497bc133a38ed42578d92 IvanBespaly <i.a.bespaly@gmail.com> 1615982606 +0200	checkout: moving from master to develop
+6095145291fd7ae3be5497bc133a38ed42578d92 aada87824234f44e4cb8b8f31f27616d4585f66c IvanBespaly <i.a.bespaly@gmail.com> 1615982668 +0200	checkout: moving from develop to master
+aada87824234f44e4cb8b8f31f27616d4585f66c 6095145291fd7ae3be5497bc133a38ed42578d92 IvanBespaly <i.a.bespaly@gmail.com> 1615982735 +0200	checkout: moving from master to develop
+6095145291fd7ae3be5497bc133a38ed42578d92 aada87824234f44e4cb8b8f31f27616d4585f66c IvanBespaly <i.a.bespaly@gmail.com> 1615982814 +0200	checkout: moving from develop to master
+aada87824234f44e4cb8b8f31f27616d4585f66c 6095145291fd7ae3be5497bc133a38ed42578d92 IvanBespaly <i.a.bespaly@gmail.com> 1615982824 +0200	merge develop: Fast-forward
