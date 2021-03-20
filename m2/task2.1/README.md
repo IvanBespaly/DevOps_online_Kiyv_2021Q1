@@ -1,4 +1,5 @@
 1.VMware, Oracle, Server Virtualization Solution (Hyper - V)
+
 2.Differences of the most popular hypervisors:
 
  1. Oracle VirtualBox is free, 
@@ -6,7 +7,9 @@
  3. Server Virtualization Solution (Hyper - V) free but requires a license from other products.
 
 3.Looked atmanual VirtualBox
+
 4.Download the latest stable version of VirtualBox-6.1.18-142142-Win 
+
 5.Download ubuntu-20.04.2.0-desktop-amd64
 
 6.![](Images/1.png)
