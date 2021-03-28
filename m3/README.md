@@ -1,0 +1,21 @@
+#PART 1
+1.![](Images/1.png)
+2.![](Images/2.png)
+3.![](Images/3.png)
+4.![](Images/4.png)
+
+#PART 2
+5.![](Images/5.png)
+6.![](Images/6.png)
+7.![](Images/7.png)
+8.![](Images/8.png)
+9.![](Images/9.png)
+10.![](Images/10.png)
+11.![](Images/11.png)
+12.![](Images/12.png)
+13.![](Images/13.png)
+14.![](Images/14.png)
+
+#PART 3
+15.![](Images/15.png)
+16.![](Images/16.png)
