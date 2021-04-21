@@ -1,0 +1,15 @@
+1.![](images/1.png)
+2.![](images/2.png)
+3.![](images/3.png)
+4.![](images/4.png)
+5.![](images/5.png)
+6.![](images/6.png)
+7.![](images/7.png)
+8.![](images/8.png)
+9.![](images/9.png)
+10.![](images/10.png)
+r - read, w -  write, x - execution
+11.![](images/11.png)
+12.![](images/12.png)
+Sticky влияет на определение владельца объектов в каталоге
+13.![](images/13.png)
